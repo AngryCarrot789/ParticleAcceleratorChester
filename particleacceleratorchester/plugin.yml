@@ -1,0 +1,13 @@
+name: ParticleAcceleratorChester
+version: 1.2
+description: A plugin for chesting PAs in loaded chunks
+author: TheR
+main: particleacceleratorchester.ParticleAcceleratorChester
+
+commands:
+  info:
+    description: shows info about the plugin
+    usage: /info
+  chestpa:
+    description: Chests particle accelerators 
+    usage: /chestpa <password>
